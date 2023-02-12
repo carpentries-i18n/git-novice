@@ -73,7 +73,6 @@ For this lesson, we will be interacting with [GitHub](https://github.com/) and s
 > $ git config --global core.autocrlf false
 > ~~~
 > {: .language-bash}
-> 
 {: .callout}
 
 Dracula also has to set his favorite text editor, following this table:
@@ -132,7 +131,6 @@ $ git config --global init.defaultBranch main
 > For versions of Git prior to 2.28, the change can be made on an individual repository level.  The 
 > command for this is in the next episode.  Note that if this value is unset in your local Git 
 > configuration, the `init.defaultBranch` value defaults to `master`.
->
 {: .callout}
 
 The five commands we just ran above only need to be run once: the flag `--global` tells Git
@@ -189,7 +187,6 @@ same commands to choose another editor or update your email address.
 > $ git help
 > ~~~
 > {: .language-bash}
->
 {: .callout}
 
 [git-privacy]: https://help.github.com/articles/keeping-your-email-address-private/

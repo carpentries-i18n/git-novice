@@ -544,6 +544,5 @@ Conflicts can also be minimized with project management strategies:
 > > |4    | Commit changes    | `git commit -m "Add 100 to numbers.txt"`     |
 > > |5    | Update remote     | `git push origin main`                     |
 > > |6    | Celebrate!        | `AFK`                                        |
-> >
 > {: .solution}
 {: .challenge}

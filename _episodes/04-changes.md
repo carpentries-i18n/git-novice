@@ -607,7 +607,6 @@ Date:   Thu Aug 22 09:51:46 2013 -0400
 >    $ git commit -m "Add some initial thoughts on spaceships"
 >    ~~~
 >    {: .language-bash}
->
 {: .callout}
 
 To recap, when we want to add changes to our repository,
@@ -779,7 +778,6 @@ repository (`git commit`):
 > > $ git diff me.txt
 > > ~~~
 > > {: .language-bash}
-> >
 > {: .solution}
 {: .challenge}
 

@@ -498,6 +498,5 @@ GitHub, though, this command would download them to our local repository.
 > > create mode 100644 README.md
 > > ~~~
 > > {: .output}
-> >
 > {: .solution}
 {: .challenge}

@@ -501,7 +501,6 @@ directory levels. E.g. `**/results/plots/*` would make git ignore the
 > > !results/data/*       # do not ignore the .dat files in reults/data
 > > ~~~
 > > {: .output}
-> > 
 > {: .solution}
 {: .challenge}
 

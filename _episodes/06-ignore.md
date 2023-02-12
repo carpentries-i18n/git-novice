@@ -233,7 +233,6 @@ nothing to commit, working tree clean
 > > !results/data/          # do not ignore results/data/ contents
 > > ~~~
 > > {: .output}
-> >
 > {: .solution}
 {: .challenge}
 
@@ -307,7 +306,6 @@ nothing to commit, working tree clean
 > > The `!` modifier will negate an entry from a previously defined ignore pattern.
 > > Because the `!*.dat` entry negates all of the previous `.dat` files in the `.gitignore`,
 > > none of them will be ignored, and all `.dat` files will be tracked.
-> >
 > {: .solution}
 {: .challenge}
 
