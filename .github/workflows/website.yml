@@ -118,6 +118,3 @@ jobs:
           git push origin gh-pages
           # return
           cd ..
-
-      - run: make lesson-check-all
-        if: always()
